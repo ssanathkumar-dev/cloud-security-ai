@@ -34,4 +34,4 @@ It combines three domains:
 ---
 
 ##  Author
-- Project by **Sanath Kumar** (for personal development in Cloud, Cyber Security, and AI/ML).
+- Project by **S Sanath Kumar** (for personal development in Cloud, Cyber Security, and AI/ML).
