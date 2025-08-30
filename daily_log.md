@@ -1,6 +1,6 @@
 # Daily Progress Log
 
-## 🚀 Project Progress Tracker
+## Project Progress Tracker
 - [x] Phase 1: Setup & Planning
 - [ ] Phase 2: Data Collection
 - [ ] Phase 3: Data Preprocessing
