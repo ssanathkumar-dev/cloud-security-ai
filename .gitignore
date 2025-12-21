@@ -208,3 +208,6 @@ __marimo__/
 
 # Allow sample security logs for learning
 !data/raw_logs/sample_auth.log
+
+data/datasets/*
+
